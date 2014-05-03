@@ -1,9 +1,9 @@
 [
  {
 	"remote":       "github",
-	"repository":   "Cyanogenmod/android_device_lge_iprj-common",
+	"repository":   "RemixPA/android_device_lge_iprj-common",
 	"target_path":  "device/lge/iprj-common",
-	"revision":     "cm-11.0"
+	"revision":     "kk4.4"
  },
  {
 	"remote":       "github",

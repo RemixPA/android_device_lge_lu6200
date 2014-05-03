@@ -7,7 +7,7 @@ TARGET_BOOTLOADER_BOARD_NAME := lu6200
 TARGET_OTA_ASSERT_DEVICE := lu6200,i_lgu
 
 # Try to build the kernel
-TARGET_KERNEL_CONFIG := cyanogenmod_lu6200_defconfig
+TARGET_KERNEL_CONFIG := mokee_lu6200_defconfig
 # Keep this as a fallback
 TARGET_PREBUILT_KERNEL := device/lge/lu6200/kernel
 
